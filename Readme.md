@@ -1,14 +1,20 @@
 # Projeto de Criptografia e Descriptografia
 
+## Descrição
+
+Este projeto implementa um sistema de criptografia e descriptografia baseado em álgebra linear, utilizando a inversão de matrizes para garantir a segurança dos dados. Oferecendo uma abordagem prática e eficiente para a proteção de informações sensíveis, o sistema foi desenvolvido por Anderson Júnior como parte da Atividade Prática Supervisionada (APS) de Álgebra Linear do curso de Ciência da Computação do Centro Universitário Carioca (Unicarioca), sob a orientação do Professor Manuel Martins Filho.
+<br>
+<br>
+
 ## Objetivo
-
-Este projeto implementa um sistema de criptografia e descriptografia baseado em álgebra linear, utilizando a inversão de matrizes para garantir a segurança dos dados. Desenvolvido como parte da Atividade Prática Supervisionada (APS), ele oferece uma abordagem prática e eficiente para proteger informações sensíveis.
+O objetivo deste projeto é desenvolver um sistema de criptografia e descriptografia que utilize princípios de álgebra linear, especificamente a inversão de matrizes, para assegurar a segurança e a confidencialidade de dados sensíveis. Além disso, o projeto visa proporcionar uma ferramenta prática e eficiente para a proteção de informações, destacando a aplicação de conceitos teóricos de álgebra linear em problemas reais de segurança da informação.
 <br>
 <br>
+## Vídeo Demonstrativo (Youtube)
 
-## Vídeo Demonstrativo
+[![Assista ao vídeo](https://img.youtube.com/vi/e4qlTyym3oE/hqdefault.jpg)](https://www.youtube.com/watch?v=e4qlTyym3oE)<br>
+### APS - Criptografia e Descriptografia usando inversão de matrizes
 
-[![Assista ao vídeo](https://img.youtube.com/vi/e4qlTyym3oE/hqdefault.jpg)](https://www.youtube.com/watch?v=e4qlTyym3oE)
 <br>
 <br>
 
